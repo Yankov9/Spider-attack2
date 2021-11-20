@@ -27,6 +27,7 @@ Ejemplo:
 El juego es de un nivel de concentración alta para no ser eliminado, así en todo momento estarás atento a lo que suceda dentro del mundo. Esto mientras sumas puntaje al ir avanzando. 
 
 2. Mecánica
+
 Tenga en cuenta que las preguntas que siguen se expresan en términos del personaje
 principal del juego, a diferencia del jugador, ya que el jugador es el foco de la sección sobre
 dinámica. Sin embargo, si no existe el personaje, el jugador puede ser considerado como el
